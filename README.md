@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cheapshot003&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02)
+
 <!--
 **Cheapshot003/Cheapshot003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
